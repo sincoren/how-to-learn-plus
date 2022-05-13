@@ -1,0 +1,18 @@
+p{
+    margin: 0;
+}
+
+.subtitle{
+    width: 338px;
+    position: absolute;
+    bottom: 0px;
+    left: 64px;
+    z-index: 3;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.subtitle a{
+    color: blue;;
+}

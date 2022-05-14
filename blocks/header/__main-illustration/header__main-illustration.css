@@ -1,11 +1,10 @@
-/* .header__main-illustration{
+.header__main-illustration{
     width: 765px;
     height: 608px;
     position: absolute;
     right: 0;
-    bottom: 0;
-    border: blue solid 1px;
-}  */
+    bottom: 0px;
+} 
 
 .header__main-illustration{
     z-index: 2;

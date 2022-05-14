@@ -18,4 +18,9 @@
 @import url(../blocks/content/__techniques/_section-subtitle/content__techniques_section-subtitle.css);
 @import url(../blocks/content/__techniques/_cards/content__techniques_cards.css);
 @import url(../blocks/content/__techniques/_cards/_cards_item/content__techniques_cards_cards-item.css);
-@import url(../blocks/);
+
+@import url(../blocks/content/__digits/__digits.css);
+@import url(../blocks/content/__digits/_section-title/content__digits_section-title.css);
+@import url(../blocks/content/__digits/_section-subtitle/content__digits_section-subtitle.css);
+@import url(../blocks/content/__digits/_table/content__digits_table.css);
+@import url(../blocks/content/__digits/_table/_cell/content__digits_table_cell.css);

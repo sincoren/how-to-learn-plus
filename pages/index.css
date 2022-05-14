@@ -24,3 +24,9 @@
 @import url(../blocks/content/__digits/_section-subtitle/content__digits_section-subtitle.css);
 @import url(../blocks/content/__digits/_table/content__digits_table.css);
 @import url(../blocks/content/__digits/_table/_cell/content__digits_table_cell.css);
+
+@import url(../blocks/content/__kaufman/content__kaufman.css);
+@import url(../blocks/content/__digits/_table/_theme/content__table_theme_dark.css);
+@import url(../blocks/content/__digits/_section-title/_theme/content__digits_section-title_theme_dark.css);
+@import url(../blocks/content/__digits/_section-subtitle/_theme/content__digits_section-subtitle_theme_dark.css);
+@import url(../blocks/content/__digits/_table/_cell/_theme/content__table_cell_theme_dark.css);

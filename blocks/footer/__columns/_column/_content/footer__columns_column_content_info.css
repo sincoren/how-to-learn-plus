@@ -1,0 +1,13 @@
+.column_heading{
+    color: white;
+    margin-bottom: 20px;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.column-links{
+    list-style: none;
+    color: white;
+    padding: 0;
+}

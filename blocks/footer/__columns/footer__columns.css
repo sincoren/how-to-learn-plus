@@ -1,0 +1,7 @@
+.columns{
+    display: flex;
+    flex-basis: 711px;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-around;
+}

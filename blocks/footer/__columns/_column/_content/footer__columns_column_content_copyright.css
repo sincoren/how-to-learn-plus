@@ -1,0 +1,10 @@
+.author{
+    margin: 18px 0;
+    position: absolute;
+    bottom: 10px;
+    z-index: 5;
+    color: white;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}

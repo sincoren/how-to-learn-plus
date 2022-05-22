@@ -1,0 +1,7 @@
+.table__text{
+  text-align: center;
+}
+
+.table__text:first-of-type{
+  margin-bottom: 20px;
+}

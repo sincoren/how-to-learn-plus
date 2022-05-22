@@ -1,5 +1,4 @@
 .techniques{
-  height: 300px;
-  background-color: yellow;
-  border: red solid 1px;
+  width: 80%;
+  margin: 0 auto;
 }

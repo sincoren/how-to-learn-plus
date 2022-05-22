@@ -1,5 +1,5 @@
 .kaufman{
-  height: 300px;
-  background-color: yellow;
-  border: red solid 1px;
+  background-color: #1f1f1f;
+  box-sizing: border-box;
+  padding: 90px 0;
 }

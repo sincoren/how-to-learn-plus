@@ -1,0 +1,12 @@
+.oakley{
+    background-color: #f2f2f2;
+    box-sizing: border-box;
+    padding-top: 160px;
+    width: 100%;
+}
+
+.oakley .two-columns{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+}

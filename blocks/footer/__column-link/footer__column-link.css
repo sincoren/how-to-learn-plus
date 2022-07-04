@@ -1,0 +1,8 @@
+.footer__column-link{
+  margin-bottom: 10px;
+}
+
+.footer__column-link a{
+  text-decoration: none;
+  color: white;
+}
